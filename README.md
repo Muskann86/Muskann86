@@ -51,11 +51,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-000B49?style=flat&logo=angular)&nbsp;
 
 ![Php](https://img.shields.io/badge/-Php-000B49?style=flat&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-original-000B49?style=flat&logo=java-original)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20Original-000B49?style=flat&logo=java-original)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-000B49?style=flat&logo=csharp)&nbsp;
 
-![React-Native](https://img.shields.io/badge/-React-native-000B49?style=flat&logo=react-native)&nbsp;
-![Androidstudio](https://img.shields.io/badge/-Androidstudio-000B49?style=flat&logo=Androidstudio)&nbsp;
+![React-Native](https://img.shields.io/badge/-React%20Native-000B49?style=flat&logo=react-native)&nbsp;
+![Androidstudio](https://img.shields.io/badge/-Android%20Studio-000B49?style=flat&logo=Androidstudio)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-000B49?style=flat&logo=Xamarin)&nbsp;
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
