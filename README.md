@@ -51,10 +51,10 @@
 ![Angular](https://img.shields.io/badge/-Angular-000B49?style=flat&logo=angular)&nbsp;
 
 ![Php](https://img.shields.io/badge/-Php-000B49?style=flat&logo=php)&nbsp;
-![Java](https://img.shields.io/badge/-Java-000B49?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-original-000B49?style=flat&logo=java-original)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-000B49?style=flat&logo=csharp)&nbsp;
 
-![ReactNative](https://img.shields.io/badge/-ReactNative-000B49?style=flat&logo=reactnative)&nbsp;
+![React-Native](https://img.shields.io/badge/-React-native-000B49?style=flat&logo=react-native)&nbsp;
 ![Androidstudio](https://img.shields.io/badge/-Androidstudio-000B49?style=flat&logo=Androidstudio)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-000B49?style=flat&logo=Xamarin)&nbsp;
 
