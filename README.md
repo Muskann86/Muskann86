@@ -47,6 +47,17 @@
 
 <h3 align="left">New languages and tools that I'll learn and master in the course and with your company :</h3>
 
+![Typescript](https://img.shields.io/badge/-Typescript-000B49?style=flat&logo=Typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000B49?style=flat&logo=Angular)&nbsp;
+
+![Php](https://img.shields.io/badge/-Php-000B49?style=flat&logo=Php)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000B49?style=flat&logo=Java)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-000B49?style=flat&logo=Csharp)&nbsp;
+
+![Reactnative](https://img.shields.io/badge/-Reactnative-000B49?style=flat&logo=Reactnative)&nbsp;
+![Androidstudio](https://img.shields.io/badge/-Androidstudio-000B49?style=flat&logo=Androidstudio)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-000B49?style=flat&logo=Xamarin)&nbsp;
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
