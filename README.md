@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fatoumata</h1>
+<h1 align="center">Hi 👋, my name is Fatoumata</h1>
 
-<h3 align="center">I am looking for a company for a 24 month internship, with 3 weeks within the company and 1 week in at school.</h3>
+<h3 align="center">I'm currently retraining for a career in web development and in September i'm starting my 1st year as an Application Developer at the Aston by SQLI school. I'm looking for a company willing to take me on for a 24-month period and sign a work-study contract alternating 3 weeks at the company and 1 week at the school.</h3>
 
 &nbsp;
 
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000B49?style=flat&logo=linkedin" alt="Fatoumata SOUKOUNA linkedin Page" /></a>
 <img align="center" src="https://img.shields.io/badge/-soukounafatoumata86@gmail.com-000B49?style=flat&logo=gmail" alt="Email contact" />
 
-<h3 align="left">The languages and Tools that I have some knowledge of:</h3>
+<h3 align="left">The languages and tools that I have some knowledge of:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000B49?style=flat&logo=javascript)&nbsp;
 ![jquery](https://img.shields.io/badge/-Jquery-000B49?style=flat&logo=jquery&logoColor=0769ad)&nbsp;
@@ -44,6 +44,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-000B49?style=flat&logo=Trello&logoColor=264de4)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-000B49?style=flat&logo=Slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-000B49?style=flat&logo=Discord)&nbsp;
+
+<h3 align="left">The new languages and tools that I'll be learning in the course that i'm gonna be doing and with your compagny:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
 
