@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000B49?style=flat&logo=linkedin" alt="Fatoumata SOUKOUNA linkedin Page" /></a>
 <img align="center" src="https://img.shields.io/badge/-soukounafatoumata86@gmail.com-000B49?style=flat&logo=gmail" alt="Email contact" />
 
-<h3 align="left">The languages and tools that I have some knowledge of:</h3>
+<h3 align="left">Languages and tools that I have some knowledge of:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000B49?style=flat&logo=javascript)&nbsp;
 ![jquery](https://img.shields.io/badge/-Jquery-000B49?style=flat&logo=jquery&logoColor=0769ad)&nbsp;
@@ -45,7 +45,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-000B49?style=flat&logo=Slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-000B49?style=flat&logo=Discord)&nbsp;
 
-<h3 align="left">The new languages and tools that I'll be learning in the course that i'm gonna be doing and with your compagny:</h3>
+<h3 align="left">New languages and tools that I'll learn and master in the course and with your company:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
 
