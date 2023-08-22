@@ -41,8 +41,8 @@
 ![Slack](https://img.shields.io/badge/-Slack-000B49?style=flat&logo=Slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-000B49?style=flat&logo=Discord)&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskann86&show_icons=true&theme=nightowl" alt="Muskann86" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muskann86&show_icons=true&theme=nightowl" alt="Muskann86" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskann86&show_icons=true&theme=nightowl" alt="muskann86" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muskann86&theme=nightowl" alt="Muskann86" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskann86&theme=nightowl" alt="muskann86" /></p>
