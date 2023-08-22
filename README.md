@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatoumata</h1>
 
-<h3 align="center">I am looking for a company for a 24 month internship, with 3 weeks within the company and 1 week in the school.</h3>
+<h3 align="center">I am looking for a company for a 24 month internship, with 3 weeks within the company and 1 week in at school.</h3>
 
 &nbsp;
 
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatoumatasoukouna86/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-000B49?style=flat&logo=linkedin" alt="Fatoumata SOUKOUNA linkedin Page" /></a>
 <img align="center" src="https://img.shields.io/badge/-soukounafatoumata86@gmail.com-000B49?style=flat&logo=gmail" alt="Email contact" />
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">The languages and Tools that I have some knowledge of:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000B49?style=flat&logo=javascript)&nbsp;
 ![jquery](https://img.shields.io/badge/-Jquery-000B49?style=flat&logo=jquery&logoColor=0769ad)&nbsp;
@@ -25,7 +25,10 @@
 ![HTML](https://img.shields.io/badge/-HTML-000B49?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-000B49?style=flat&logo=CSS3&logoColor=0078d7)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000B49?style=flat&logo=bootstrap)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000B49?style=flat&logo=tailwindcss)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-000B49?style=flat&logo=sass)&nbsp;
 
+![Heroku](https://img.shields.io/badge/-Heroku-000B49?style=flat&logo=heroku)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000B49?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000B49?style=flat&logo=github)&nbsp;
 
@@ -35,6 +38,7 @@
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000B49?style=flat&logo=adobe-photoshop)&nbsp;
 ![Adobexd](https://img.shields.io/badge/-Adobe%20XD-000B49?style=flat&logo=Adobexd)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma%20XD-000B49?style=flat&logo=Figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-000B49?style=flat&logo=Canva)&nbsp;
 
 ![Trello](https://img.shields.io/badge/-Trello-000B49?style=flat&logo=Trello&logoColor=264de4)&nbsp;
