@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Fatoumata</h1>
 
-<h3 align="center">I'm currently retraining for a career in web development and in September i'm starting my 1st year as an Application Developer at the Aston by SQLI school. I'm looking for a company willing to take me on for a 24-month period and sign a work-study contract alternating 3 weeks at the company and 1 week at the school.</h3>
+<h3 align="left">I'm currently retraining for a career in web development and in September i'm starting my 1st year as an Application Developer at the Aston by SQLI school. I'm looking for a company willing to take me on for a 24-month period and sign a work-study contract alternating 3 weeks at the company and 1 week at the school.</h3>
 
 &nbsp;
 
