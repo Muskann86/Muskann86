@@ -52,7 +52,7 @@
 
 ![Php](https://img.shields.io/badge/-Php-000B49?style=flat&logo=php)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000B49?style=flat&logo=java)&nbsp;
-![C#](https://img.shields.io/badge/-C#-000B49?style=flat&logo=c#)&nbsp;
+![C#](https://img.shields.io/badge/-Csharp-000B49?style=flat&logo=csharp)&nbsp;
 
 ![React-Native](https://img.shields.io/badge/-React%20Native-000B49?style=flat&logo=react)&nbsp;
 ![Androidstudio](https://img.shields.io/badge/-Android%20Studio-000B49?style=flat&logo=Androidstudio)&nbsp;
