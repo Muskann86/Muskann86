@@ -48,7 +48,7 @@
 <h3 align="left">New languages and tools that I'll learn and master in the course and with your company :</h3>
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000B49?style=flat&logo=typescript)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-000B49?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-000B49?style=flat&logo=angular&logoColor=DD0031)&nbsp;
 
 ![Php](https://img.shields.io/badge/-Php-000B49?style=flat&logo=php)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000B49?style=flat&logo=java)&nbsp;
